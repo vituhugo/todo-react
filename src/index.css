@@ -1,0 +1,13 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.fixed-bottom {
+  display: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
